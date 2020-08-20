@@ -1,0 +1,14 @@
+.footer__columns{ 
+    display: flex;
+    color: #f2f2f2;
+    width: 90%;
+    margin: 60px auto 40px auto;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-between;
+  }
+  
+  .footer__column {
+    margin: 0;
+  }
+  

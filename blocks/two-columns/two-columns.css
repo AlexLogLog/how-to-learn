@@ -1,0 +1,11 @@
+
+.two-columns {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 100px;
+  }
+  
+  
